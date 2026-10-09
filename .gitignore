@@ -1,0 +1,8 @@
+# downloaded datasets (fetched automatically by scripts/run_experiment.py)
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+results_*/
